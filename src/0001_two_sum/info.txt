@@ -1,0 +1,5 @@
+number: 0001
+title: two-sum
+time: O(n)
+space: O(n)
+difficulty: easy
